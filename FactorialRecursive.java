@@ -1,6 +1,6 @@
-public class FactorialRecursive {
+public class FactorialRecursive implements Factorial {
 
-	public static int factorial(int n){
+	public int factorial(int n){
 
 		int total = 1;
 		for(int i = n; i > 0; i--){

@@ -1,6 +1,6 @@
-public class FactorialIterative {
+public class FactorialIterative implements Factorial{
 
-	public static int factorial(int n) {
+	public int factorial(int n) {
 
 		int result;
 

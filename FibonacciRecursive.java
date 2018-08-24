@@ -1,7 +1,8 @@
-public class FibonacciRecursive {
 
-	public static int fibonacci(int n){
-		
+public class FibonacciRecursive implements Fibonacci{
+
+	public int fibonacci(int n){
+
 	}
 
 }
