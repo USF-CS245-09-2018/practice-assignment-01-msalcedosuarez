@@ -1,5 +1,7 @@
 public class FibonacciRecursive {
 
-	public int fibonacci(int n);
+	public static int fibonacci(int n){
+		
+	}
 
 }
