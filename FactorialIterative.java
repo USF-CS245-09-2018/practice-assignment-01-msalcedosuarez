@@ -1,4 +1,6 @@
-public class FactorialIterative implements Factorial{
+
+
+public class FactorialIterative implements Factorial {
 
 	public int factorial(int n) {
 
